@@ -1,0 +1,27 @@
+html,
+body,
+.carousel,
+.carousel-inner,
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+#instagram-posts .col img {
+    width: 100%;
+    height: auto;
+}
+
+.btn-custom {
+    background-color: #BB7C9E; /* Altere para a cor desejada */
+    color: black; /* Altere para a cor do texto desejada */
+    /* Adicione outros estilos personalizados conforme necessário */
+}
+
+.btn-custom:hover {
+    background-color: rgb(117, 5, 5); /* Altere para a cor desejada no hover */
+    /* Adicione outros estilos de hover conforme necessário */
+}
